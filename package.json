@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@analog-labs/timegraph-js": "^0.1.1",
+    "@analog-labs/timegraph-wasm": "^1.0.0",
+    "@polkadot/keyring": "^12.6.2",
+    "@polkadot/util": "^12.6.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.8",
+    "hardhat": "^2.22.6"
+  }
+}
